@@ -1,0 +1,1165 @@
+// url is unique for every news
+// so we can use it to identify the news
+{
+    "status": "ok",
+    "totalResults": 2071,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Big-hitting Klaasen ends South Africa career",
+            "description": "South Africa batter Heinrich Klaasen announces his retirement from the international game with immediate effect.",
+            "url": "https://www.bbc.com/sport/cricket/articles/cvg98lg80rdo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/90a9/live/65263520-3fa2-11f0-aefb-5bdcf7b5706c.jpg",
+            "publishedAt": "2025-06-02T11:38:56Z",
+            "content": "South Africa batter Heinrich Klaasen has retired from the international game. \r\nThe 33-year-old is one of the world's most destructive middle-order batters and will continue to play franchise cricket… [+1094 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Venkat Ananth",
+            "title": "T20 cricket: Inside the race for the next billion-dollar league",
+            "description": "The $16 billion IPL is the biggest T20 cricket league in the world. While none of the 16 other leagues that are active today are anywhere close to it, a furious battle is raging for the second spot. Will it be the BBL or The Hundred?",
+            "url": "https://www.livemint.com/industry/t20-cricket-billion-dollar-league-ipl-bbl-the-hundred-major-league-cricket-indian-premier-league-11748857141256.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/06/02/1600x900/Beau_Webster_1748857248165_1748860990359.jpg",
+            "publishedAt": "2025-06-02T11:30:06Z",
+            "content": "Bengaluru: On 25 May, Zimbabwes 39-year-old all-rounder Sikandar Raza made headlines, but not just because he scored the winning runs for Lahore Qalanders in the Pakistan Super League (PSL) final at … [+13453 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "Not happy with JEE Advanced rank or results? Virat Kohli's 'when I stopped thinking' attitude found inspirational",
+            "description": "The JEE Advanced 2025 results are out, with Rajit Gupta from IIT Delhi zone securing the top rank. Out of 1,80,422 students, 54,378 cleared the exam, including 9,404 female candidates. Rajit scored 332 out of 360, emphasizing consistency and emotional well-be…",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/not-happy-with-jee-advanced-rank-or-results-virat-kohlis-when-i-stopped-thinking-attitude-found-inspirational/articleshow/121570167.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121570904,width-1200,height-630,imgsize-43262,overlay-etpanache/articleshow.jpg",
+            "publishedAt": "2025-06-02T10:48:13Z",
+            "content": "Not seeing yourself make the cut in the JEE merit list can be disappointing, but the key is not to give up and give your all in the preparation. A video that is going viral on the JEE subreddit shows… [+3311 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "Heinrich Klaasen shocks cricket world as South African power-hitter retires from international cricket",
+            "description": "Heinrich Klaasen Retired: Heinrich Klaasen, the South African power-hitter, has announced his immediate retirement from all international cricket to prioritize family and franchise leagues. This decision follows his omission from CSA's central contracts. Klaa…",
+            "url": "https://economictimes.indiatimes.com/news/sports/heinrich-klaasen-retirement-news-shocks-cricket-fraternity-as-south-african-power-hitter-quits-international-cricket/articleshow/121570308.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121570503,width-1200,height-630,imgsize-15318,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-06-02T10:36:46Z",
+            "content": "Heinrich Klaasen Retirement: South African power-hitter Heinrich Klaasen on Monday shocked the cricketing world by announcing his retirement from all forms of international cricket with immediate eff… [+3990 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Adweek"
+            },
+            "author": "Bill Bradley",
+            "title": "Slim Jim Tag-Teams With WWE for Branded Chaos on Netflix",
+            "description": "Slim Jim becomes the center ring sponsor for WWE's Monday Night RAW on Netflix.",
+            "url": "https://www.adweek.com/convergent-tv/slim-jim-wwe-netflix-partnership-ring/",
+            "urlToImage": "https://static-www.adweek.com/wp-content/uploads/2025/06/netflix-slimjim-partner-wwe.jpeg?w=600&h=315&crop=1",
+            "publishedAt": "2025-06-02T10:00:00Z",
+            "content": "When wrestlers have beef, Slim Jim will be right in the middle of it.\r\nToday, WWE, part of TKO Group Holdings, and Slim Jim announced an extension of their 2023 multi-layered partnership, with Slim J… [+2049 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "jogisingh",
+            "title": "Get Cricket & IPL Master ID | Best Online Betting Master ID Provider � PunterKaa",
+            "description": "Get Cricket & IPL Master ID | Best Online Betting Master ID Provider  PunterKaa - posted in Windows Crashes and Blue Screen of Death (BSOD) Help and Support: PunterKaadda offers Cricket Master ID, IPL Master ID, and Online Betting Master ID with instant setu…",
+            "url": "https://www.bleepingcomputer.com/forums/t/808690/get-cricket-ipl-master-id-best-online-betting-master-id-provider-punterkaa/",
+            "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+            "publishedAt": "2025-06-02T09:22:40Z",
+            "content": "PunterKaadda offers Cricket Master ID, IPL Master ID, and Online Betting Master ID with instant setup. Become an agent with Agent Master ID or Super Agent Master ID and enjoy fast, secure service and… [+38 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Ben Collins",
+            "title": "Maxwell retires from ODIs to focus on T20 World Cup",
+            "description": "Australia all-rounder Glenn Maxwell retires from one-day internationals to focus on next year's T20 World Cup.",
+            "url": "https://www.bbc.com/sport/cricket/articles/cvgnvz1d8ego",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b5a3/live/038d9910-3f8f-11f0-904b-21729955b76d.jpg",
+            "publishedAt": "2025-06-02T09:09:46Z",
+            "content": "Nicknamed 'The Big Show', Maxwell ends his ODI career with 3,990 runs at an average of 33.81, with four hundreds and 23 half-centuries.\r\nHe has the second-best ODI strike rate of all-time (126.70) an… [+1307 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Glenn Maxwell retires from ODI cricket but T20 World Cup in his sights",
+            "description": "Maxwell, known as one of the game's most powerful hitters, is calling time on his one-day career with Australia.",
+            "url": "https://www.aljazeera.com/sports/2025/6/2/glenn-maxwell-retires-from-odi-cricket-but-t20-world-cup-in-his-sights",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/GettyImages-2185064352-1748852707.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-06-02T08:58:06Z",
+            "content": "Explosive Australian batsman Glenn Maxwell has announced his retirement from one-day cricket, but will continue in Twenty20 cricket with his eye on next years World Cup.\r\nThe 36-year-old, who played … [+2818 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Niall McVeigh",
+            "title": "Football quiz: test your knowledge of one-sided European Cup finals",
+            "description": "After PSG set a new record with their 5-0 rout of Inter, we pose 12 questions on other lopsided results",
+            "url": "https://sports.yahoo.com/article/football-quiz-test-knowledge-one-085306303.html",
+            "urlToImage": "https://media.zenfs.com/en/the_guardian_765/cb03be905a922c00d201c6f040480108",
+            "publishedAt": "2025-06-02T08:53:06Z",
+            "content": "\u003Col\u003E\u003Cli\u003EInter conceded five goals to PSG in Saturday's final; how many did Simone Inzaghi's team let in across their eight league phase games?\r\n\u003Col\u003E\u003Cli\u003ENone\r\n\u003C/li\u003E\u003Cli\u003EOne\r\n\u003C/li\u003E\u003Cli\u003EThree\r\n\u003C/li\u003E\u003Cli\u003EFi… [+5000 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lithub.com"
+            },
+            "author": "Hannah Brooks-Motl",
+            "title": "In Praise of Poetry About Bugs",
+            "description": "Poetry and bugs should be thought of more often together. My friend, the poet Sara Nicholson, once told me she thought “ants deserve more poems.” But ants have a poetic pedigree worth tracking. John Clare wrote about them, and Robert Frost too. All kinds of b…",
+            "url": "https://lithub.com/in-praise-of-poetry-about-bugs/",
+            "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2025/05/ants.jpg",
+            "publishedAt": "2025-06-02T08:00:20Z",
+            "content": "Poetry and bugs should be thought of more often together. My friend, the poet Sara Nicholson, once told me she thought “ants deserve more poems.”\r\nArticle continues after advertisement\r\nBut ants have… [+7530 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "IPL 2025 final: RCB and Kohli’s 18-year wait meets Punjab’s fire as league awaits a new champion",
+            "description": "Virat Kohli's Royal Challengers Bengaluru faces Shreyas Iyer's Punjab Kings in the IPL final, a clash of two teams seeking their first title. Kohli aims to end his trophy drought in what could be his last match for a while, while Iyer seeks a second consecuti…",
+            "url": "https://economictimes.indiatimes.com/news/sports/ipl-2025-rcb-virat-kohli-punjab-kings-shreyas-iyer-new-champion/articleshow/121566265.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121566312,width-1200,height-630,imgsize-55696,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-06-02T07:40:44Z",
+            "content": "Eighteen seasons. No title. For Virat Kohli and Royal Challengers Bengaluru, the wait has been long, emotional, and often cruel. On Tuesday night, they get another shot at redemption, this time again… [+3722 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Kohli’s aggression and Hardik’s grit fuel young paddler Ankur’s rise in table tennis",
+            "description": "Ankur Bhattacharjee, a rising Indian table tennis player, once dreamed of being a cricketer, idolising Virat Kohli's aggression and Hardik Pandya's mental fortitude. Despite his passion for cricket, he pursued table tennis to fulfill his parents' aspirations,…",
+            "url": "https://economictimes.indiatimes.com/news/sports/kohlis-aggression-and-hardiks-grit-fuel-young-paddler-ankurs-rise-in-table-tennis/articleshow/121565378.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121565564,width-1200,height-630,imgsize-84120,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-06-02T07:04:23Z",
+            "content": "An ardent fan of Virat Kohli and Hardik Pandya, rising Indian paddler Ankur Bhattacharjee once aspired to be a cricketer before shifting to table tennis, but his love for cricket still remains.The 18… [+3020 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Australia's two-time World Cup champion Glenn Maxwell retires from one-day international cricket",
+            "description": "Two-time World Cup champion Glenn Maxwell is retiring from one-day international cricket in a bid to play a role in Australia’s push for a Twenty20 world title next year. Cricket Australia confirmed Maxwell's decision Monday. The 36-year-old Maxwell played 14…",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7e9f5c4a-e6e1-4e68-9eb8-ff1798eb3d46",
+            "urlToImage": null,
+            "publishedAt": "2025-06-02T07:02:25Z",
+            "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TNN",
+            "title": "Cricket, connections & courtship: How Rinku Singh met SP MP Priya Saroj",
+            "description": "Cricketer Rinku Singh and newly elected MP Priya Saroj, who met through a family friend, are set to get engaged on June 8 in Lucknow and marry on November 18 in Varanasi. With both rising stars in cricket and politics, their families have begun preparations f…",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/cricket-connections-courtship-how-rinku-singh-met-sp-mp-priya-saroj/articleshow/121564579.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-121564771,width-1070,height-580,imgsize-75540,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-06-02T06:45:38Z",
+            "content": "Bigg Boss 18 Fame Eisha Singhs Top 10Stunning Looks"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "Glenn Maxwell bids farewell to ODIs, ends 13-year chapter in One-Day cricket",
+            "description": "Australian allrounder Glenn Maxwell has retired from ODI cricket after a 13-year career, during which he played 149 matches and scored nearly 4,000 runs. Citing doubts about making it to the 2027 World Cup and a desire to make room for younger players, Maxwel…",
+            "url": "https://economictimes.indiatimes.com/news/sports/glenn-maxwell-bids-farewell-to-odis-ends-13-year-chapter-in-one-day-cricket/articleshow/121564124.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121564136,width-1200,height-630,imgsize-118178,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-06-02T06:19:42Z",
+            "content": "Glenn Maxwell, the man behind some of Australia's most memorable one-day moments has called time on a 13-year ODI career.The Australian allrounder on Monday announced he was retiring from the first f… [+951 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Chris De Silva",
+            "title": "'I felt like I was letting the team down': Maxwell makes selfless retirement call",
+            "description": "The toll of repeated injuries forces Glenn Maxwell to draw the curtains on a phenomenal one day career which featured two World Cup wins for Australia.",
+            "url": "https://www.abc.net.au/news/2025-06-02/cricket-glenn-maxwell-one-day-international-retirement/105367278",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/74b46c2c4b9b51486379fcc839f47f90?impolicy=wcms_watermark_news&cropH=1928&cropW=3428&xPos=2&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-06-02T06:00:21Z",
+            "content": "Star all-rounder Glenn Maxwell has retired from one day international cricket after a stellar career which saw him win two World Cups. \r\nMaxwell, 36, will remain an active part of Australia's T20 set… [+2926 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Jocelyn Fernandes",
+            "title": "Virat Kohli's Bengaluru pub One 8 Commune runs into trouble… booked for THIS violation",
+            "description": "Virat Kohli's pub and restaurant in Bengaluru's posh Cubbon Park area has ran into trouble with local authorities for a violation of rules. Here's what happened…",
+            "url": "https://www.livemint.com/companies/people/virat-kohli-bengaluru-pub-one-8-commune-booked-no-designated-cigarette-smoking-zone-cubbon-park-police-violation-news-11748841711969.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/06/02/1600x900/Virat_Kohli_bengaluru_pub_case_police_Cubbon_park_1748842976927_1748842977387.JPG",
+            "publishedAt": "2025-06-02T05:51:30Z",
+            "content": "Indian men's cricket team sportstar and Royal Challengers Bengaluru's (RCB) banner player Virat Kohli's pub and restaurant in the southern city's posh Cubbon Park area has run into trouble with local… [+862 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "Not just cricket. Courage, calmness...: Punjab Kings' Shreyas Iyer brilliance vs MI is Anand Mahindra's Monday motivation",
+            "description": "Shreyas Iyer's calm leadership propelled Punjab Kings to the IPL 2025 final, chasing down a 204-run target against Mumbai Indians. Anand Mahindra praised Iyer's composure, highlighting his unique achievement of leading three different teams to the IPL finals.…",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/not-just-cricket-courage-calmness-punjab-kings-shreyas-iyer-brilliance-vs-mi-is-billionaire-anand-mahindras-monday-motivation/articleshow/121562954.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121563171,width-1200,height-630,imgsize-62418,overlay-etpanache/articleshow.jpg",
+            "publishedAt": "2025-06-02T05:49:41Z",
+            "content": "In a high-stakes clash that could have overwhelmed many, it was the calm and collected leadership of Shreyas Iyer that propelled Punjab Kings into the IPL 2025 final. Chasing a formidable 204-run tar… [+3161 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Chris De Silva",
+            "title": "As the leader of the prolific Matildas 'brand', Montemurro might be Australia's most important coach",
+            "description": "Joe Montemurro correctly called the Matildas 'one of the best brands in the world' at his unveiling and begins his tenure as coach at one of the most crucial junctures in Australian football.",
+            "url": "https://www.abc.net.au/news/2025-06-02/football-joe-montemurro-matildas-coach-hire-analysis/105366420",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/b1d1f94c35e93366f556c6b6d17dc06e?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=155&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-06-02T05:33:46Z",
+            "content": "The role of being Australia's Test cricket captain was once colloquially considered to be the second-most important position to being the prime minister in Australia. \r\nThis fictional cabinet that fe… [+5530 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ANI",
+            "title": "Rajeev Shukla to become acting BCCI president in July: Sources",
+            "description": "BCCI Vice President Rajeev Shukla is set to become the acting president in July as Roger Binny approaches the age limit. Shukla will hold the position for three months initially and could contest for the full-time presidency at the AGM in September. Binny's t…",
+            "url": "https://economictimes.indiatimes.com/news/sports/rajeev-shukla-to-become-acting-bcci-president-in-july-sources/articleshow/121563022.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121563030,width-1200,height-630,imgsize-23460,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-06-02T05:32:40Z",
+            "content": "The Board of Control for Cricket in India (BCCI) Vice President Rajeev Shukla will become the acting president of the board in July after the current president Roger Binny, touches the age of 70 on J… [+1577 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "IPL History: Shreyas Iyer-led Punjab Kings shatter IPL playoff records in insane 204-run chase",
+            "description": "PBKS led by Shreyas Iyer were a different gravy during the all-important clash against MI. Even though the five-time champions put up 203/6 on the board with notable contributions from Tilak Varma, Suryakumar Yadav and Naman Dhir and threw the Men in Red on b…",
+            "url": "https://economictimes.indiatimes.com/news/sports/ipl-history-shreyas-iyer-led-punjab-kings-shatter-ipl-playoff-records-in-insane-204-run-chase/articleshow/121561227.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121561311,width-1200,height-630,imgsize-104594,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-06-02T04:11:44Z",
+            "content": "IPL: Punjab Kings (PBKS) pulled off a record-breaking chase against Mumbai Indians (MI) on Sunday night in the IPL 2025 Qualifier 2, chasing down a target of 204 to secure a place in the final. The f… [+3418 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Australian stars face tight turnaround from IPL final to WTC",
+            "description": "Josh Hazlewood and Josh Inglis will have just six days to prepare for the World Test Championships after their teams made it into the IPL final.",
+            "url": "https://www.abc.net.au/news/2025-06-02/ipl-final-josh-hazlewood-and-joh-inglis-wtc/105366566",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/3beba537a42596554dab4423133df116?impolicy=wcms_watermark_news&cropH=1738&cropW=3090&xPos=0&yPos=161&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-06-02T03:24:42Z",
+            "content": "Josh Hazlewood and Josh Inglis will have six days to prepare for the World Test Championship decider, with the pair to face off in the Indian Premier League (IPL) final and then fly straight to Engla… [+3201 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Rajeev Dikshit",
+            "title": "Cricketer Rinku Singh to wed Samajwadi Party MP Priya Saroj in Kashi on November 18",
+            "description": "Indian cricketer Rinku Singh is set to marry Samajwadi Party MP Priya Saroj in a grand ceremony on November 18 at Hotel Taj, Varanasi. Priya's father, SP MLA Tufani Saroj, confirmed the wedding date following their engagement on June 8 in Lucknow. The wedding…",
+            "url": "https://timesofindia.indiatimes.com/city/varanasi/cricketer-rinku-singh-to-wed-samajwadi-party-mp-priya-saroj-in-kashi-on-november-18/articleshow/121560383.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-121560446,width-1070,height-580,imgsize-56764,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-06-02T03:23:57Z",
+            "content": "Worlds 10 tallest waterfalls that will take your breath away"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Khabarhub.com"
+            },
+            "author": "Khabarhub",
+            "title": "Reminscing last week: Budget, power struggles, records",
+            "description": "KATHMANDU: In a week marked by major political, economic, and diplomatic activity, the government unveiled a Rs 1.96 trillion budget for FY 2025/26, with significant allocations for education, health, infrastructure, and local governance. Tensions flared betw…",
+            "url": "https://english.khabarhub.com/2025/02/472403/",
+            "urlToImage": "https://i0.wp.com/english.khabarhub.com/wp-content/uploads/2025/06/Khabarhub-_Saata-Ko-Khabar-English_1200px-630X-px-Final_2024.05.31.jpg?fit=1200%2C630&ssl=1",
+            "publishedAt": "2025-06-02T02:45:07Z",
+            "content": "KATHMANDU: In a week marked by major political, economic, and diplomatic activity, the government unveiled a Rs 1.96 trillion budget for FY 2025/26, with significant allocations for education, health… [+7944 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Khabarhub.com"
+            },
+            "author": "Khabarhub",
+            "title": "ICC World Cup League-2: Nepal playing against Scotland today",
+            "description": "KATHMANDU: The Nepali national cricket team, currently on a tour of Scotland for the ICC World Cup League-2, is set to begin its triangular series campaign today against the host nation. The match will take place in Forthill, Scotland, starting at 3:45 pm. Ne…",
+            "url": "https://english.khabarhub.com/2025/02/473121/",
+            "urlToImage": "https://i0.wp.com/english.khabarhub.com/wp-content/uploads/2025/05/cricket-team.jpg?fit=1200%2C549&ssl=1",
+            "publishedAt": "2025-06-02T01:25:41Z",
+            "content": "KATHMANDU: The Nepali national cricket team, currently on a tour of Scotland for the ICC World Cup League-2, is set to begin its triangular series campaign today against the host nation.\r\nThe match w… [+803 chars]"
+        },
+        {
+            "source": {
+                "id": "national-geographic",
+                "name": "National Geographic"
+            },
+            "author": "Kristin Braswell",
+            "title": "Love pink sand beaches? Here's your essential guide to visiting Bermuda",
+            "description": "World-class hotels, pink sand beaches, and lively year-around events make Bermuda a must-visit destination for any traveler.",
+            "url": "https://www.nationalgeographic.com/travel/article/bermuda-essential-travel-guide",
+            "urlToImage": "https://i.natgeofe.com/n/4dd18e5c-3320-4f59-87af-c8f9c5e86041/GettyImages-1159363129_16x9.jpg?w=1200",
+            "publishedAt": "2025-06-02T00:00:00Z",
+            "content": "Bermudas famed pink sand beaches have drawn travelers to its shores for decades. Still, travelers shouldnt miss the rich cultural traditions, historical landmarks, and annual events that are just as … [+8779 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "ODI Cricket",
+            "description": "Highlights from the second ODI between England and West Indies of 2025.",
+            "url": "https://www.bbc.co.uk/iplayer/episode/m002d3l0/odi-cricket-2025-england-v-west-indies-second-odi-highlights",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0ld28dg.jpg",
+            "publishedAt": "2025-06-01T23:35:25Z",
+            "content": "Highlights from the second ODI between England and West Indies of 2025."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Matthew Henry",
+            "title": "Broad to coach SA before Test final v Australia",
+            "description": "Former England bowler Stuart Broad will work with South Africa in the build-up to the World Test Championship final against Australia.",
+            "url": "https://www.bbc.com/sport/cricket/articles/c3089z0z1rvo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/11cf/live/16763850-3f2d-11f0-8856-23a2b548f30c.jpg",
+            "publishedAt": "2025-06-01T21:20:26Z",
+            "content": "Former England bowler Stuart Broad will work with South Africa in the build-up to the World Test Championship final against Australia later this month.\r\nBroad, 38, will work for one day as a consulta… [+645 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Ffion Wynne",
+            "title": "Root 'getting better with age' - the numbers behind his ODI brilliance",
+            "description": "Joe Root is now England's leading run-scorer in one-day internationals - what are the numbers behind his brilliance?",
+            "url": "https://www.bbc.com/sport/cricket/articles/c3wdl4z6pv1o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f917/live/7fcdae00-3f1e-11f0-b6e6-4ddb91039da1.jpg",
+            "publishedAt": "2025-06-01T21:13:32Z",
+            "content": "Ticking the strike over\r\nSince his debut in ODIs, only two batters have a higher non-boundary strike-rate than Root (minimum of 2,000 non-boundary runs). Off non-boundary balls, Root has a strike-rat… [+1871 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Hafsa Adil",
+            "title": "Pakistan beat Bangladesh by 7 wickets, sweep T20 series as Haris hits 107",
+            "description": "Opener scores 107 off 46 as Pakistan chase 197 with seven wickets in hand and 16 balls to spare for 3-0 series win.",
+            "url": "https://www.aljazeera.com/sports/2025/6/1/pakistan-beat-bangladesh-by-7-wickets-sweep-t20-series-as-haris-hits-107",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/AP25152659879982-1748803358.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-06-01T19:48:10Z",
+            "content": "A nerveless century from Mohammad Haris has led Pakistans chase of 197 runs to win the third T20 international cricket match against Bangladesh and complete a 3-0 series win in Lahore.\r\nHaving won th… [+2478 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bringatrailer.com"
+            },
+            "author": "bringatrailer",
+            "title": "1952 MG TD 5-Speed",
+            "description": "This 1952 MG TD is powered by a 1,250cc XPAG inline-four that is paired with a five-speed manual transmission sourced from Moss Motors. Finished in red over black vinyl, the car features a tan soft top, 15\" steel wheels, hubcaps, a luggage rack, driving light…",
+            "url": "https://bringatrailer.com/listing/1952-mg-td-180/",
+            "urlToImage": "https://bringatrailer.com/wp-content/uploads/2025/05/1952_mg_td_1952_mg_td_94891ec5-3695-4cbd-b267-f37f3ec18fbe-yrtonn-72904-90987.jpg",
+            "publishedAt": "2025-06-01T19:20:04Z",
+            "content": "This 1952 MG TD is powered by a 1,250cc XPAG inline-four that is paired with a five-speed manual transmission sourced from Moss Motors. Finished in red over black vinyl, the car features a tan soft t… [+2207 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "BCCI's decision to relocate playoff, final matches of IPL influenced by political considerations: WB govt",
+            "description": "The West Bengal government has strongly criticised the BCCI's decision to move the IPL playoffs and final from Kolkata to Gujarat, alleging political interference. State Sports Minister Aroop Biswas claims the weather assessment used to justify the move was p…",
+            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/bccis-decision-to-relocate-playoff-final-matches-of-ipl-influenced-by-political-considerations-wb-govt/articleshow/121555622.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121555843,width-1200,height-630,imgsize-20176,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-06-01T19:14:45Z",
+            "content": "Kolkata: The West Bengal government on Sunday criticised the Board of Control for Cricket in India's (BCCI) decision to relocate the playoff and final matches of the Indian Premier League (IPL) from … [+1745 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Javed Farooqui",
+            "title": "Pro Kabaddi League auction: 10 players cross Rs 1 crore mark",
+            "description": "Pro Kabaddi League is witnessing unprecedented commercial success, with a record ten players exceeding the ₹1-crore mark in the latest auction, highlighting the league's growing prominence. Mohammadreza Shadloui Chiyaneh secured a ₹2.23 crore contract with Gu…",
+            "url": "https://economictimes.indiatimes.com/news/sports/pro-kabaddi-league-auction-10-players-cross-rs-1-crore-mark/articleshow/121555580.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121555591,width-1200,height-630,imgsize-42888,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-06-01T19:10:01Z",
+            "content": "Pro Kabaddi League (PKL) has hit a new commercial high: 10 players breached the 1-crore mark in its most recent auction, underlining India's second-largest franchise-based sporting league's growing s… [+1789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New Zealand Herald"
+            },
+            "author": "Cherie Howie",
+            "title": "King’s Birthday Honours 2025: Six new dames and knights among almost 190 recognised nationally",
+            "description": "Almost 190 Kiwis have been recognised in King's Birthday honours, including ex-All Black.",
+            "url": "https://www.nzherald.co.nz/nz/kings-birthday-honours-2025-six-new-dames-and-knights-among-almost-190-recognised-nationally/B6GG7SVOPZCDRFIOEM4LGVY7JQ/",
+            "urlToImage": "https://www.nzherald.co.nz/resizer/v2/MAPIVMWFLFEBTGAGHQFWEKYXCQ.jpg?auth=5090ddf54a00b044c2c5841bf9b4d3ec2c3c3bee8269065fdefb476c5c3f769f&width=1200&height=675&quality=70&focal=981%2C602&smart=false",
+            "publishedAt": "2025-06-01T17:00:00Z",
+            "content": "Sistema Plastics founder Brendan Lindsay was one of three new knights companion of the New Zealand Order of Merit, along with former judge Mark Cooper (Ngti Mahanga, Waikato-Tainui) a High Court and … [+6269 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Damian Cullen",
+            "title": "Three sporting events to watch this week: Your handy guide to sport on television",
+            "description": "Your guide to the best sport on television",
+            "url": "https://www.irishtimes.com/sport/2025/06/01/three-sporting-events-to-watch-this-week-your-handy-guide-to-sport-on-television/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/ICYRYH44FNHK3PP4MVAGYLG7FI.jpg?smart=true&auth=060a4520d5e9b63027a6089090a3cc3cc3786952f3d37723ba55228c393e5370&width=1200&height=630",
+            "publishedAt": "2025-06-01T16:01:00Z",
+            "content": "Horse Racing\r\nThe two-day Derby Festival takes place this week at the famous Epsom Downs Racecourse in Surrey, England. The Group One Oaks takes pride of place on day one, with one of the richest fla… [+5610 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "Manish Garg",
+            "title": "Yoga, cricket, and no junk food",
+            "description": "Manish Garg, CEO of Interarch Building Solutions, shares his daily routine focused on yoga, healthy eating, cricket, positivity, and rest.",
+            "url": "https://www.thehindubusinessline.com/specials/pulse/yoga-cricket-and-no-junk-food/article69628193.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/ihhze0/article69628693.ece/alternates/LANDSCAPE_1200/Mr.%20Manish%20Garg%20CEO%20Interarch%20Building%20Solutions.png",
+            "publishedAt": "2025-06-01T15:33:42Z",
+            "content": "1. Yoga: Up at 5.30 am, my mornings start with an hour of yoga, six days a week. My wife and I follow this routine with a professional yoga instructor. Even when travelling, I stick to it. On the rar… [+991 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boredpanda.com"
+            },
+            "author": "Edvinas Jovaišas",
+            "title": "Richest Actor In The World 2025 And The Surprising Stars Close Behind",
+            "description": "Richest Actor In The World 2025: Discover the wealthiest actor and surprising stars close behind! See who made the top 10 and how they amass their fortune in Hollywood.",
+            "url": "https://www.boredpanda.com/richest-actor-in-the-world-msn/",
+            "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2025/05/richest-actor-in-the-world-2025-and-the-surprising-stars-close-behind-fb.png",
+            "publishedAt": "2025-06-01T14:00:04Z",
+            "content": "Article created by: Akansha Subil\r\nActors may be the face of a film, but success extends far beyond the screen for the wealthiest names in the industry.\r\nOver the years, a select few have turned thei… [+15523 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Air India sees huge upside in passenger, cargo biz; open for more partnerships: CEO Campbell Wilson",
+            "description": "Air India, under Tata Group's guidance since early 2022, is actively pursuing its five-year transformation plan, 'Vihaan.AI,' with a focus on upgrading aircraft, enhancing service, and expanding networks. The airline is open to partnerships, witnessing signif…",
+            "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-sees-huge-upside-in-passenger-cargo-biz-open-for-more-partnerships-ceo-campbell-wilson/articleshow/121549960.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121549966,width-1200,height-630,imgsize-78557,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-06-01T12:58:28Z",
+            "content": "Air India sees huge upside in passenger as well as cargo segments and is always open for partnerships, its chief Campbell Wilson said as the full service airline works to upgrade its aircraft, improv… [+4968 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Daanish Anand",
+            "title": "Air India eyes profitability with fleet overhaul and customer satisfaction boost",
+            "description": "The Air India group is in the middle of its five-year transformative journey called Vihaan.AI, which commenced in September 2022. The group is in its third phase, or 'the climb phase', which commenced in April 2024 and will end in March 2027.",
+            "url": "https://www.livemint.com/companies/air-india-profitability-campbell-wilson-vihaan-ai-tata-group-wide-body-aircraft-fleet-boeing-11748768053969.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/06/01/1600x900/campbell_wilson_1695665833803_1748776070083.jpg",
+            "publishedAt": "2025-06-01T12:31:54Z",
+            "content": "Tata group-owned Air India has made profitability its prime focus and aims to achieve it in the next few years, as the full-service carrier undergoes a revamp to boost efficiency and passenger conven… [+4124 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "Team BL",
+            "title": "PUMA roars on the ‘RCB Shotline’ for fans",
+            "description": "PUMA India's 'RCB Shotline' Instagram campaign with sporting stars; Havmor Ice Cream's cricket-themed Choco Vanilla Ice Cream; Tata Trust's menstruation reframing; Air India's 'There is an Air About India' campaign; Supertails' street birthday party for stray…",
+            "url": "https://www.thehindubusinessline.com/catalyst/puma-roars-on-the-rcb-shotline-for-fans/article69645156.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/r3387j/article69645148.ece/alternates/LANDSCAPE_1200/BL0206_Brand_Campaign_PUMA.jpg",
+            "publishedAt": "2025-06-01T11:47:49Z",
+            "content": "PUMA Indias new Instagram campaign, RCB Shotline, which features Virat Kohli, Usain Bolt, PV Sindhu, Jack Grealish, Rajat Patidar, Gurpreet Singh Sandhu, and Krunal Pandya, is fun, quirky and hooks y… [+2713 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "Rinku Singh to get engaged to Samajwadi Party MP Priya Saroj on June 8",
+            "description": "Indian cricketer Rinku Singh is set to get engaged to Samajwadi Party MP Priya Saroj on June 8 in Lucknow, confirmed by Priya's father, Toofani Saroj. Their wedding is planned for November 18 at the Hotel Taj in Varanasi, with invitations expected for figures…",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/rinku-singh-to-get-engaged-to-samajwadi-party-mp-priya-saroj-on-june-8/articleshow/121548862.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121548900,width-1200,height-630,imgsize-1199200,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-06-01T11:06:15Z",
+            "content": "India cricketer Rinku Singh is set to get engaged to Samajwadi Party MP Priya Saroj on June 8 in Lucknow. The news was confirmed by the politicians father, Toofani Saroj, on Sunday.The couple will ti… [+1091 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "England tour is exam for Shubman Gill, good batting key to good captaincy: Saba Karim",
+            "description": "Shubman Gill's captaincy faces a test during the upcoming England tour. Saba Karim believes Gill's batting performance will influence his captaincy. Karim anticipates competitive matches from the young Indian team. He also highlights Karun Nair and Sai Sudhar…",
+            "url": "https://economictimes.indiatimes.com/news/sports/england-tour-is-exam-for-shubman-gill-good-batting-key-to-good-captaincy-saba-karim/articleshow/121547710.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121547730,width-1200,height-630,imgsize-35966,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-06-01T08:46:54Z",
+            "content": "The upcoming England tour will be an exam for new Test leader Shubman Gill and his success as captain may depend on his own batting performance, reckons former India selector Saba Karim.India kick-st… [+2410 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "Princess Margaret Cancer Centre hosts charity cricket match, raises upwards of $1M",
+            "description": "More than 400 cricketers and celebrities gathered Saturday in Mississauga at the inaugural Cricket to Conquer Cancer event to raise funds for the Princess Margaret Cancer Centre's research.",
+            "url": "https://www.cbc.ca/news/canada/toronto/cricket-to-conquer-cancer-fundraiser-1.7549189",
+            "urlToImage": "https://i.cbc.ca/1.7549221.1748722793!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/jully-black.jpg?im=Resize%3D620",
+            "publishedAt": "2025-05-31T20:51:13Z",
+            "content": "More than 400 cricketers and celebrities gathered Saturday in Mississauga at the inaugural Cricket to Conquer Cancer event to raise funds for the Princess Margaret Cancer Centre's research. \r\nCanadia… [+3651 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ComicBook.com"
+            },
+            "author": "Matthew Murphy",
+            "title": "Every Kingdom Hearts Game Ranked From Worst to Best",
+            "description": "From what started as an elevator pitch, Kingdom Hearts was set to be Disney’s rival to Mario by bringing popular characters to gaming. With Jiminy Cricket and luck on their shoulder, the world welcomed the beloved protagonist Sora with open arms, setting fort…",
+            "url": "http://comicbook.com/gaming/news/kingdom-hearts-games-best-worst-ranked/",
+            "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2025/05/Kingdom-Hearts-List-Feature.jpg?resize=2000,1125",
+            "publishedAt": "2025-05-31T20:00:00Z",
+            "content": "From what started as an elevator pitch, Kingdom Hearts was set to be Disneys rival to Mario by bringing popular characters to gaming. With Jiminy Cricket and luck on their shoulder, the world welcome… [+8883 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Nirmal John and Lijee Philip",
+            "title": "Need for speed: What can India do to get top level racing back in the country?",
+            "description": "India aims to host top motorsport events. It faces challenges despite growing fan base and market potential. Past attempts like Formula 1 and MotoGP faced issues. Formula E had a brief stint. Racing figures emphasize government support and infrastructure. You…",
+            "url": "https://economictimes.indiatimes.com/news/sports/need-for-speed-what-can-india-do-to-get-top-level-racing-back-in-the-country/articleshow/121538288.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121538389,width-1200,height-630,imgsize-95440,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-05-31T17:30:00Z",
+            "content": "Formula 1. MotoGP. World Rally Championship. Formula E. They are the pinnacle of motorsport. India is the most populous country in the world. Put two and two together and the case for the country to … [+8203 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Shoiab Akhtar gets legal notice from cricket historian for defamation",
+            "description": "Nauman Niaz, a cricket historian, has served a notice to Shoaib Akhtar. The notice is for allegedly defaming him. Shoaib reportedly called Niaz a \"kit man\" on a podcast. Niaz's lawyer demands an apology within 14 days. Failure to do so will result in legal ac…",
+            "url": "https://economictimes.indiatimes.com/news/sports/shoiab-akhtar-gets-legal-notice-from-cricket-historian-for-defamation/articleshow/121536666.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121536683,width-1200,height-630,imgsize-943070,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-05-31T13:39:53Z",
+            "content": "Karachi: Nauman Niaz, a well-known cricket historian, writer and television personality has sent a notice to former Pakistan pacer Shoaib Akhtar for discrediting and defaming him.Dr. Niaz, a former D… [+1117 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ANI",
+            "title": "Rift between Hardik Pandya and Shubhman Gill? Gujarat Titans skipper clears air",
+            "description": "India Test skipper Shubman Gill put an end to speculation of any tension between him and all-rounder Hardik Pandya during the Eliminator in the Indian Premier League (IPL) 2025 between Gujarat Titans (GT) and Mumbai Indians (MI) on Friday.",
+            "url": "https://economictimes.indiatimes.com/news/sports/rift-between-hardik-pandya-and-shubhman-gill-gujarat-titans-skipper-clears-air/articleshow/121536594.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121536609,width-1200,height-630,imgsize-43046,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-05-31T13:34:32Z",
+            "content": "India Test captain Shubman Gill has dismissed rumours of any rift with all-rounder Hardik Pandya during the IPL 2025 Eliminator between Gujarat Titans (GT) and Mumbai Indians (MI) on Friday.Speculati… [+1538 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "Abid Iqbal Shaik",
+            "title": "Samsung extends May 2025 security update to Galaxy S21 FE",
+            "description": "The Galaxy S21 FE’s Android 15-based One UI 7.0 update, despite being released this month, came with the April 2025 security patch. Well, the brand has now started rolling out the May 2025 security patch to the smartphone, which fixes the issues mentioned her…",
+            "url": "https://www.sammobile.com/news/samsung-extends-free-screen-replacement-for-green-line-issue-until-september-2025/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2022/01/Galaxy-S21-FE-review-13.jpg",
+            "publishedAt": "2025-05-31T12:48:20Z",
+            "content": "The Galaxy S21 FEs Android 15-based One UI 7.0 update, despite being released this month, came with the April 2025 security patch.\r\nWell, the brand has now started rolling out the May 2025 security p… [+1180 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ANI",
+            "title": "Karun Nair makes strong case before England Tests with rollicking 204 for India A against Lions",
+            "description": "Karun Nair struck a double century against England Lions in Canterbury. He scored 204 runs. Dhruv Jurel missed his century by six runs. Ajeet Dale dismissed him on 94. Shardul Thakur scored 18 runs. Nair's innings has strengthened his case for a spot in the u…",
+            "url": "https://economictimes.indiatimes.com/news/sports/karun-nair-makes-strong-case-before-england-tests-with-rollicking-204-for-india-a-against-lions/articleshow/121535026.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121535044,width-1200,height-630,imgsize-29712,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-05-31T11:30:32Z",
+            "content": "Karun Nair's redemption arc in England began with a rollicking double century for India against the Lions on Day 2 of the first unofficial Test in Canterbury on Saturday. With the sun shining over Ca… [+2077 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "England's Overton out of West Indies series due to broken finger",
+            "description": "England all-rounder Jamie Overton will miss the rest of the home series against West Indies after breaking his right little finger, on his bowling arm, during the first One-Day International at Edgbaston, the England and Wales Cricket Board (ECB) said on Satu…",
+            "url": "https://www.channelnewsasia.com/sport/englands-overton-out-west-indies-series-due-broken-finger-5161221",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--anyRxY8z--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-05-31t110931z_1_lynxnpel4u024_rtroptp_3_cricket-odi-eng-win.jpg?itok=6yPlPUee",
+            "publishedAt": "2025-05-31T11:09:31Z",
+            "content": "England all-rounder Jamie Overton will miss the rest of the home series against West Indies after breaking his right little finger, on his bowling arm, during the first One-Day International at Edgba… [+616 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Greeshma Unnikrishnan",
+            "title": "Virat Kohli's RCB in IPL Final: How three men changed Royal Challengers Bengaluru's auction dynamics",
+            "description": "IPL 2025: Royal Challengers Bengaluru revamped their auction strategy, prioritizing role-specific players over high-profile names like Rishabh Pant and KL Rahul. This shift, guided by Mo Bobat, Andy Flower, and Dinesh Karthik, led to strategic acquisitions su…",
+            "url": "https://economictimes.indiatimes.com/news/sports/virat-kohlis-rcb-in-ipl-final-how-bobat-flower-karthik-changed-royal-challengers-bengalurus-auction-dynamics/articleshow/121533852.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121533891,width-1200,height-630,imgsize-70462,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-05-31T10:05:29Z",
+            "content": "RCB: Insight, perhaps, was not the watchword in Royal Challengers Bengaluru's auction process, for long. In the past, they assembled a slew of stars and then tried to build the team around them.It wa… [+5107 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Nick Webb",
+            "title": "Glamorgan on 'rapid learning curve' ahead of T20 Blast",
+            "description": "Glamorgan women's coach Rachel Priest says the team's performances have been \"amazing\" so far as they prepare to start the T20 Blast competition.",
+            "url": "https://www.bbc.com/sport/cricket/articles/c9vgxkn1997o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/71da/live/b7844040-3d6e-11f0-af00-f94ff1cabcc0.jpg",
+            "publishedAt": "2025-05-31T09:25:26Z",
+            "content": "Glamorgan won two rounds of the T20 Counties Cup before going down to fully professional Lancashire Thunder.\r\nThey have also won three out of four in League Two of the MetroBank One Day cup, only los… [+1821 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "IPL might have just given India its next Test opener and he is Shubman Gill's top man",
+            "description": "Sai Sudharsan's impressive IPL 2025 performance has earned him a Test call-up for India's series in England, signaling a potential new opening partnership with Shubman Gill. Despite Gujarat Titans' elimination, Sudharsan's consistency and adaptability, highli…",
+            "url": "https://economictimes.indiatimes.com/news/sports/ipl-might-have-just-given-india-its-next-test-opener-sai-sudharsan-and-he-is-shubman-gills-top-man/articleshow/121532383.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121533010,width-1200,height-630,imgsize-161486,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-05-31T09:01:40Z",
+            "content": "For the Gujarat Titans, IPL 2025 has ended. Looking back at this season's journey, if one thing the franchise has given to the Indian cricket, it would be the Sai Sudharsan show. There comes a moment… [+3919 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Gaurav Gupta",
+            "title": "Former Mumbai pace bowling stalwart Abdul Ismail passes away",
+            "description": "Abdul Ismail, the 'king of swing bowling' from Mumbai's golden era of cricket, has passed away at 79 due to cardiac arrest. He was instrumental in Mumbai's Ranji Trophy dominance, securing 244 wickets in first-class games. Here's a look back at his immaculate…",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/news/former-mumbai-pace-bowling-stalwart-abdul-ismail-passes-away/articleshow/121532480.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-121532559,width-1070,height-580,imgsize-24036,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-05-31T08:29:45Z",
+            "content": "Aishwarya Rai proves red is her power colour in these 9 dazzling looks"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Jay Shah meets UEFA president Ceferin in Munich",
+            "description": "ICC Chairman Jay Shah engaged with UEFA President Aleksander Ceferin in Munich, leveraging the Champions League final to promote cricket's global expansion. This meeting follows Shah's earlier discussion with former IOC President Thomas Bach in Lausanne, high…",
+            "url": "https://economictimes.indiatimes.com/news/sports/jay-shah-meets-uefa-president-ceferin-in-munich/articleshow/121531722.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121531733,width-1200,height-630,imgsize-18204,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-05-31T07:22:49Z",
+            "content": "Continuing cricket's global outreach, ICC chairman Jay Shah met UEFA president Aleksander Ceferin in Munich ahead of Saturday's Champions League final between Inter Milan and Paris Saint-Germain, whi… [+664 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Khabarhub.com"
+            },
+            "author": "Khabarhub",
+            "title": "Nepal takes on Scotland A in second practice match ahead of ICC World Cup League 2",
+            "description": "KATHMANDU: The Nepal national cricket team is set to play its second practice one-day match against Scotland A today as part of its preparation for the upcoming ICC World Cup League 2 series. The match will take place at the Forfarshire Cricket Club in Scotla…",
+            "url": "https://english.khabarhub.com/2025/31/472658/",
+            "urlToImage": "https://i0.wp.com/english.khabarhub.com/wp-content/uploads/2025/05/Nepal-v-Scotland-A-Cricket.jpg?fit=1280%2C960&ssl=1",
+            "publishedAt": "2025-05-31T06:45:01Z",
+            "content": "KATHMANDU: The Nepal national cricket team is set to play its second practice one-day match against Scotland A today as part of its preparation for the upcoming ICC World Cup League 2 series.\r\nThe ma… [+1262 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ANI",
+            "title": "Virat Kohli followed his heart in retiring from Test cricket, says AB de Villiers",
+            "description": "AB de Villiers has expressed his thoughts on Virat Kohli's recent retirement from Test cricket, acknowledging it as a heartfelt decision by a player who dedicated himself to the game. De Villiers highlighted Kohli's significant contributions to cricket and be…",
+            "url": "https://economictimes.indiatimes.com/news/sports/virat-kohli-followed-his-heart-in-retiring-from-test-cricket-says-ab-de-villiers/articleshow/121530147.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121530167,width-1200,height-630,imgsize-78958,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-05-31T05:22:32Z",
+            "content": "Former South African cricketer AB de Villiers reacted to Virat Kohli's decision to retire from Test cricket, calling it a heartfelt choice made by a man who has given everything to the game.Kohli ann… [+4217 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SB Nation"
+            },
+            "author": "Anthony Gair",
+            "title": "One memorable day at Wembley…",
+            "description": "For every Sunderland fan, Saturday was an experience we’ll never forget. Here, our writers share their personal highlights from a historic day!",
+            "url": "https://rokerreport.sbnation.com/2025/5/31/24438819/one-memorable-day-at-wembley",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/zCB6uq5Y05j3H-XfoC_MMAQM2No=/0x486:4351x2764/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/26010169/2217276281.jpg",
+            "publishedAt": "2025-05-31T05:00:00Z",
+            "content": "Photo by Marc Atkins/Getty Images\r\n\n \n\n\n For every Sunderland fan, Saturday was an experience we’ll never forget. Here, our writers share their personal highlights from a historic day! \nAnthony Gair … [+11309 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "Talks with Pakistan are a 'bluff': MJ Akbar hits out at 'double-faced' Pakistan",
+            "description": "During an address to the Indian diaspora in Copenhagen, MJ Akbar criticized Pakistan's double-faced nature and questioned the point of engaging in talks, deeming them a bluff. Ravi Shankar Prasad condemned anti-India slogans raised by Pakistani nationals, hig…",
+            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/talks-with-pakistan-are-a-bluff-mj-akbar-hits-out-at-double-faced-pakistan/articleshow/121529516.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121529693,width-1200,height-630,imgsize-154726,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-05-31T04:36:38Z",
+            "content": "Former Minister of State of External Affairs MJ Akbar, who is also a part of the all-party delegation led by BJP MP Ravi Shankar, has called talks with Pakistan a 'bluff'. Speaking during an address … [+3735 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Pratyush Raj",
+            "title": "Sai Sudharsan banks on County experience to excel in England",
+            "description": "Gujarat Titans' Sai Sudharsan, disappointed after their IPL loss, is banking on his County experience with Surrey to prepare for a challenging Test series in England. He acknowledges the difficulty of switching from white-ball to red-ball cricket and will foc…",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/sai-sudharsan-banks-on-county-experience-to-excel-in-england/articleshow/121529075.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-121529504,width-1070,height-580,imgsize-41776,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-05-31T04:17:18Z",
+            "content": "9 popular South Indian dosas to enjoy for breakfast"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "AFP",
+            "title": "Bangladesh ex-captain Aminul Islam new cricket board chief",
+            "description": "Aminul Islam, Bangladesh's first Test centurion, now leads the cricket board. He replaces Faruque Ahmed after his removal. Aminul, known as \"Bulbul,\" previously captained Bangladesh in the 1999 World Cup. He has worked with the ICC and ACC in development role…",
+            "url": "https://economictimes.indiatimes.com/news/sports/bangladesh-ex-captain-aminul-islam-new-cricket-board-chief/articleshow/121529384.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121529457,width-1200,height-630,imgsize-8810,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-05-31T04:03:06Z",
+            "content": "Bangladesh's first Test centurion Aminul Islam has been named president of the cricket board after Faruque Ahmed was ousted.\"This is a new high for me,\" Aminul, who captained Bangladesh in their firs… [+836 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Drum"
+            },
+            "author": "Margo Waldrop",
+            "title": "Our top 7 ads of the week",
+            "description": "This week in ads: retro nods, scented briefs and a talking fish.The best campaigns this week didn’t just sell a product — they sparked something. From scented out-of-home stunts to poetic global montages, brands leaned into bold visuals, unexpected humor and …",
+            "url": "https://www.thedrum.com/news/2025/05/31/our-top-7-ads-the-week",
+            "urlToImage": "https://thedrum-media.imgix.net//thedrum-prod/s3/news/356087/old_navylindsay_lohan.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
+            "publishedAt": "2025-05-30T23:36:00Z",
+            "content": "This week in ads: retro nods, scented briefs and a talking fish.The best campaigns this week didnt just sell a product they sparked something. From scented out-of-home stunts to poetic global montage… [+5639 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Netherlands & Nepal in Scotland 2025",
+            "description": "Fixtures for the Twenty20 international tri-series hosted by Scotland and also featuring the Netherlands and Nepal.",
+            "url": "https://www.bbc.com/sport/cricket/articles/cx251e9ww9xo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e893/live/6c469420-229d-11f0-aa58-cf6f128b2d31.jpg",
+            "publishedAt": "2025-05-30T23:05:33Z",
+            "content": "All matches in this T20 tri-series are played at Clydesdale Cricket Club, Glasgow.\r\nJune\r\n15 Scotland v Netherlands (14:00 BST)\r\n16 Nepal v Netherlands (14:00 BST)\r\n17 Scotland v Nepal (14:00 BST)\r\n1… [+216 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Sarah Turner, Contributor, \n Sarah Turner, Contributor\n https://www.forbes.com/sites/sarahturner/",
+            "title": "Father’s Day Gift Guide 2025: The Best Luxury Hotel Gifts",
+            "description": "Luxury hotels are used to enchanting guests that are used to experiencing the best of everything. Their superb curation also extends to their boutiques.",
+            "url": "https://www.forbes.com/sites/sarahturner/2025/05/30/fathers-day-gift-guide-2025-the-best-luxury-hotel-gifts/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/683a1f263bc9f64ee4797c9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-05-30T21:55:05Z",
+            "content": "These salmon flies are hand-tied in Scotland and sold by the Fife Arms.\r\nThe Fife Arms\r\nLuxury hotels are used to catering for - and enchanting - a clientele who are used to having the best of everyt… [+5323 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Pip Courtney",
+            "title": "Farmers trial soil microbes to cut synthetic fertiliser use",
+            "description": "Tasmanian dairy farmers trial microbes across 500 hectares of land with the help of a \"top-notch\" soil biologist to reduce their reliance on synthetic fertilisers such as urea.",
+            "url": "https://www.abc.net.au/news/2025-05-31/farmers-trial-soil-microbes-to-cut-synthetic-fertiliser-use/105348532",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/683d2c6b73b8f9912d6ad32ab0e56e45?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-05-30T21:31:15Z",
+            "content": "A group of Tasmanian dairy farmers is hopeful tiny organisms in the soil could soon offer a cheaper, climate-friendly alternative to synthetic fertiliser.\r\nThey've made more than 500 hectares availab… [+5556 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Matthew Henry",
+            "title": "New mum Sciver-Brunt was set to miss Windies series",
+            "description": "Nat Sciver-Brunt would have missed the ongoing West Indies series on maternity leave had she not been made captain, says her wife Katherine.",
+            "url": "https://www.bbc.com/sport/cricket/articles/clyn9zqwldpo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/66f1/live/ba48ccc0-3d95-11f0-9347-e35545653993.jpg",
+            "publishedAt": "2025-05-30T21:17:20Z",
+            "content": "Theo was with Sciver-Brunt during the T20 series which concluded on Monday and the first one-day international on Friday in Derby, where Katherine was working as a commentator for the BBC.\r\nThe match… [+2250 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Is the marketing of women's sport falling short?",
+            "description": "Women are claiming space in the sporting landscape, but when it comes to marketing, does their competitiveness go missing?",
+            "url": "https://www.abc.net.au/news/2025-05-31/marketing-of-womens-sport-falling-short-netball-matildas/105302170",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/8b0bc61055e64ae14f84b30aea71df59?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=197&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-05-30T20:56:48Z",
+            "content": "What do you picture when you think of women's sport?\r\nYou might see excited young women holding homemade signs, a family-friendly crowd, or role models on the field creating a better future for women… [+8885 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Ffion Wynne",
+            "title": "'Relief' and 'pride' as Jones takes her chance",
+            "description": "Amy Jones answers Charlotte Edwards' call for more \"smartness\" in 50-over cricket at the first time of asking with her first international century after being promoted to open.",
+            "url": "https://www.bbc.com/sport/cricket/articles/c8d104r16r6o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d3b7/live/2368ac20-3d91-11f0-bace-e1270fc31f5e.jpg",
+            "publishedAt": "2025-05-30T20:50:24Z",
+            "content": "The Ashes drubbing which started the year was one to forget for all of England's players, but Jones suffered a particularly painful experience in the second ODI at Melbourne which really kickstarted … [+1486 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "Pakistan beat Bangladesh by 57 runs to lead T20I cricket series",
+            "description": "Three wickets Abrar by followed fifties by Sahibzada and Nawaz as the hosts took a 2-0 series lead against Bangladesh.",
+            "url": "https://www.aljazeera.com/sports/2025/5/30/pakistan-beat-bangladesh-by-57-runs-to-lead-t20i-cricket-series",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AFP__20250530__48NZ6CR__v1__HighRes__CricketPakBanT20-1748626671.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-05-30T20:01:23Z",
+            "content": "Pakistan beat Bangladesh by 57 runs in the second T20 international in Lahore to seal the three-game series 2-0.\r\nOpener Sahibzada Farhan was named Player of the Match after he top scored with 74 for… [+2290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Matthew Henry",
+            "title": "Nair's unbeaten 186 against Lions pushes India Test case",
+            "description": "India batter Karun Nair pushes his case for a Test recall against England by scoring 186 not out on day one of the first unofficial Test against England Lions.",
+            "url": "https://www.bbc.com/sport/cricket/articles/c8rem5rnxmjo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9b9b/live/473df480-3d86-11f0-8fa6-57e840e6fcdb.jpg",
+            "publishedAt": "2025-05-30T19:22:51Z",
+            "content": "India batter Karun Nair pushed his case for a Test recall against England by scoring 186 not out for India A on day one of the first unofficial Test against England Lions.\r\nThe 33-year-old famously s… [+1215 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Ffion Wynne",
+            "title": "Beaumont and Jones tons set up crushing England win",
+            "description": "Amy Jones scores her first international century and Linsey Smith takes 5-36 on debut as England beat West Indies by 108 runs in the first of three one-day internationals.",
+            "url": "https://www.bbc.com/sport/cricket/articles/cyvm57z4889o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cb93/live/d0400590-3d75-11f0-af00-f94ff1cabcc0.jpg",
+            "publishedAt": "2025-05-30T19:18:17Z",
+            "content": "New coach Charlotte Edwards had called for England to be smarter in 50-over cricket since their Ashes drubbing at the beginning of the year, and they started watchfully in overcast conditions, reachi… [+778 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Global Desk",
+            "title": "Chris Hughes' net worth — all about the person who is reportedly dating JoJo Siwa",
+            "description": "Chris Hughes and JoJo Siwa's close bond on Celebrity Big Brother has sparked romance rumors following Siwa's split from Kath Ebbs. Hughes, known for Love Island and ITV Racing, has denied any romantic involvement, stating their connection is purely friendship…",
+            "url": "https://economictimes.indiatimes.com/news/international/us/chris-hughes-net-worth-all-about-the-person-who-is-reportedly-dating-jojo-siwa/articleshow/121524127.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121524092,width-1200,height-630,imgsize-30260,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-05-30T18:41:01Z",
+            "content": "Chris Hughes, a reality TV star known for Love Island and ITV Racing, is the subject of romance rumors with JoJo Siwa following their appearance on Celebrity Big Brother. JoJo Siwa and Chris Hughes a… [+3023 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Associated Press",
+            "title": "Mumbai Indians advance in IPL playoffs and knock out Gujarat Titans",
+            "description": "Fast bowler Jasprit Bumrah provided the turning point as Mumbai Indians beat Gujarat Titans by 20 runs to advance in the Indian Premier League knockouts on...",
+            "url": "https://sports.yahoo.com/article/mumbai-indians-advance-ipl-playoffs-183258512.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8D.xUz_jjAZVhDia9icPCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/6717e91f12031f06bc2f6a587b7cfc88",
+            "publishedAt": "2025-05-30T18:32:58Z",
+            "content": "NEW CHANDIGARH, India (AP) Fast bowler Jasprit Bumrah provided the turning point as Mumbai Indians beat Gujarat Titans by 20 runs to advance in the Indian Premier League knockouts on Friday.\r\nBumrah … [+581 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Bureau",
+            "title": "Smartest strategy for boycotting nations",
+            "description": "The article suggests boycotting countries that do not acknowledge India. It proposes shunning nations like Liechtenstein, Tuvalu and Andorra. The author argues these countries have not contributed to India's progress. The article advocates for refusing visas …",
+            "url": "https://economictimes.indiatimes.com/opinion/just-in-jest/smartest-strategy-for-boycotting-nations/articleshow/121523258.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-16830,resizemode-75,msid-121523258/opinion/just-in-jest/smartest-strategy-for-boycotting-nations.jpg",
+            "publishedAt": "2025-05-30T18:01:47Z",
+            "content": "Boycotting is part of our national duty as (moderately) responsible citizens. We announce how we shall forgo doing any business with a country that has been anything less than respectful to India. Un… [+1155 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Liz Kocan",
+            "title": "PSG vs. Inter Milan: How to watch the UEFA Champions League Final",
+            "description": "Here's how to watch PSG vs. Inter Milan in the UEFA Champions League final.",
+            "url": "https://sports.yahoo.com/soccer/article/psg-vs-inter-milan-how-to-watch-the-uefa-champions-league-final-165519774.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/t4gHYwkJ5XJ3pe1NMuNNDg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-05/7ef01e10-3c93-11f0-ae7f-97b5f85a30a6",
+            "publishedAt": "2025-05-30T16:55:19Z",
+            "content": "The 2025 UEFA Champions League tournament is drawing to a close with the championship final in Munich, Germany on May 31. The match between Inter Milan and Paris Saint Germain will take place at Alli… [+3121 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Business Wire",
+            "title": "TD Invests in the Growth of Cricket with New Grassroots Programs Across Canada",
+            "description": "New national initiative, TD Young Wickets, features youth clinics and virtual training for players across the country TORONTO — Cricket continues to gain momentum in Canada—from grassroots fields to the international stage—and this summer, TD is proud to cele…",
+            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/td-invests-in-the-growth-of-cricket-with-new-grassroots-programs-across-canada",
+            "urlToImage": null,
+            "publishedAt": "2025-05-30T16:01:43Z",
+            "content": "New national initiative, TD Young Wickets, features youth clinics and virtual training for players across the country\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest … [+4701 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "BL Chennai Bureau",
+            "title": "Sun TV reports 10 per cent drop in Q4 PAT",
+            "description": "Sun TV Network Ltd reports 12% decline in net profit for FY25, with revenue drop and cricket franchise income.",
+            "url": "https://www.thehindubusinessline.com/companies/sun-tv-reports-10-per-cent-drop-in-q4-pat/article69638197.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/f5x7r2/article69638635.ece/alternates/LANDSCAPE_1200/SUN_TV_OFFICE.jpg",
+            "publishedAt": "2025-05-30T14:45:44Z",
+            "content": "Sun TV Network Ltd, one of Indias largest television broadcasters, reported a 10 per cent drop in net profit to 372 crore for the fourth quarter ended March 31, 2025, against 415 crore for the corres… [+896 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Star Online"
+            },
+            "author": "The Star Online",
+            "title": "Sri Lanka ex-ministers jailed up to 25 years for corruption",
+            "description": "A Sri Lankan court sentenced on Thursday two former ministers from the government of deposed president Gotabaya Rajapaksa to decades in prison in a landmark corruption case. Read full story",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/05/30/sri-lanka-ex-ministers-jailed-up-to-25-years-for-corruption",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/05/30/3343889.jpg",
+            "publishedAt": "2025-05-30T14:27:00Z",
+            "content": "COLOMBO (AFP): A Sri Lankan court sentenced on Thursday two former ministers from the government of deposed president Gotabaya Rajapaksa to decades in prison in a landmark corruption case.\r\nEx-sports… [+1704 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Sports quiz of the week: French Open, Champions League and McTominay",
+            "description": "Have you been paying attention to the big and small stories in football, cricket, tennis, canoeing, cycling and boxing?",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ae128809-4b1e-42e0-ac62-944f8dffac21",
+            "urlToImage": null,
+            "publishedAt": "2025-05-30T13:54:33Z",
+            "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Conor Pope",
+            "title": "Sports TV subscriptions: What’s the best value among the dizzying options?",
+            "description": "From TNT, to Sky Sports, NOW TV and GAA+ Irish fans are faced with many services",
+            "url": "https://www.irishtimes.com/your-money/2025/05/30/sports-tv-subscriptions-whats-the-best-value-among-the-dizzying-options/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/M2ZQSDUJSFB5FPKMVGIYVMA7FE.jpg?smart=true&auth=67d0354bf73c4e48344764dbd55bb856da98b474515088b7e887dc9ccac5e2d4&width=1200&height=630",
+            "publishedAt": "2025-05-30T12:01:34Z",
+            "content": "There was a time when sport on Irish television was a simple affair. \r\nThere was the Six Nations or Five Nations as it was then and the odd Irish soccer match which would as often as not end in a mor… [+7814 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Nick Webb",
+            "title": "Glamorgan seek T20 upturn under another new coach",
+            "description": "Glamorgan will go into the T20 season under new management for the fourth time in four years as they face Middlesex away in their opener on Sunday, 1 June.",
+            "url": "https://www.bbc.com/sport/cricket/articles/cx275k958xqo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a03f/live/fa1d91b0-3bfa-11f0-aa74-bdeae947b4bc.jpg",
+            "publishedAt": "2025-05-30T11:52:42Z",
+            "content": "\"It's nice to be back bowling, it feels like a long time, and contributing with the bat as well. It was really frustrating to come back from a productive time in Australia, playing for Western Suburb… [+996 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "GT vs MI Playing 11: Who will be a part of Gill & Pandya's winning combinations? Check predicted XI and head-to-head",
+            "description": "Shubman Gill's Gujarat Titans face Hardik Pandya's Mumbai Indians in a high-stakes IPL 2025 Eliminator. Gujarat Titans, the 2022 champions, are battling inconsistency, while Mumbai Indians, five-time winners, are dealing with key player exits. The Titans hold…",
+            "url": "https://economictimes.indiatimes.com/news/sports/ipl-2025-qualifier-2-gt-vs-mi-dream-11prediction-today-match-gujarat-titans-vs-mumbai-indian-playing-11-team-hardik-pandya-shubman-gill-rohit-sharma-sai-sudarshan/articleshow/121516321.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121516393,width-1200,height-630,imgsize-26296,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-05-30T11:48:22Z",
+            "content": "The stakes couldnt be higher as Shubman Gills Gujarat Titans take on Hardik Pandyas Mumbai Indians in the IPL 2025 Eliminator at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur… [+1708 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ali Martin",
+            "title": "‘He’s got aura’: England sensation Jacob Bethell on Virat Kohli and Test ambitions",
+            "description": "The team’s latest big hitter opens up after his incendiary innings against the West Indies this week",
+            "url": "https://sports.yahoo.com/article/got-aura-england-sensation-jacob-113020742.html",
+            "urlToImage": "https://media.zenfs.com/en/the_guardian_765/f44833cc931ca601b066fd183c996579",
+            "publishedAt": "2025-05-30T11:30:20Z",
+            "content": "Fresh off a plane from India and straight into a player-of-the-match performance for England on his home ground, Jacob Bethells world is a pretty hectic one these days. But right now the only complai… [+3972 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "GT vs MI Mullanpur pitch report: How will the pitch play for today's IPL 2025 eliminator?",
+            "description": "Shubman Gill-led Gujarat Titans will take on five-time champions Mumbai Indians in a crucial IPL 2025 Eliminator at Mullanpur on Friday. Both teams enter with playoff experience but face challenges in form and player availability.",
+            "url": "https://economictimes.indiatimes.com/news/sports/ipl-2025-gt-vs-mi-mullanpur-pitch-report-today-match-gujarat-titans-vs-mumbai-indians-qualifier-2-live-streaming-online-telecast-jiohotstar-starsports/articleshow/121515441.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121515570,width-1200,height-630,imgsize-133806,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-05-30T11:15:01Z",
+            "content": "Shubman Gills Gujarat Titans are set to face five-time champions Mumbai Indians in a crucial IPL 2025 Eliminator in Mullanpur on Friday. Both teams bring playoff experience to the fixture, but they a… [+1738 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Gordon Manning, Malachy Clerkin",
+            "title": "Crunch time for Mayo and Galway on bumper weekend of GAA action",
+            "description": "Previews to the weekend’s games from the All-Ireland Series, Tailteann Cup and hurling finals",
+            "url": "https://www.irishtimes.com/sport/gaelic-games/2025/05/30/crunch-time-for-mayo-and-galway-on-bumper-weekend-of-gaa-action/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/DEWMKBC7TM3PTHZYJCHBB2RUCI.jpg?smart=true&auth=d9983a5e06514b2881493d428c2c4b1056b05d381867166cc7c30a23c753dd3f&width=1200&height=630",
+            "publishedAt": "2025-05-30T11:00:00Z",
+            "content": "Saturday\r\nAll-Ireland SFC, Round Two\r\nGroup One\r\nTyrone v Mayo, Healy Park, 7pm (Live on GAA+): In the countys extensive history of difficult weeks, Mayo put down yet another one over the last seven … [+9053 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "Shah Rukh Khan was told to quit Bollywood even before starting by this cricket legend. 'They will eat you...’",
+            "description": "Navjot Singh Sidhu recently recalled a conversation with Shah Rukh Khan from before the actor moved to Mumbai. During their meeting in Lucknow, SRK told Sidhu he planned to join Bollywood. Concerned about the industry's competitiveness, Sidhu warned him it wo…",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/shah-rukh-khan-was-told-to-quit-bollywood-even-before-starting-by-this-cricket-legend-they-will-eat-you/articleshow/121514513.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-121514906,width-1200,height-630,imgsize-1652153,overlay-etpanache/articleshow.jpg",
+            "publishedAt": "2025-05-30T10:54:02Z",
+            "content": "Before Shah Rukh Khan became a household name in Indian cinema, he had already gained popularity on television with shows like Fauji and Circus. Cricketer-turned-commentator Navjot Singh Sidhu recent… [+2549 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "Andrew Grush",
+            "title": "Do any prepaid US carriers offer truly unlimited data? Well, it depends on how you define it",
+            "description": "Do any carriers actually offer truly unlimited data, especially on the prepaid side? It really depends on how you define unlimited.",
+            "url": "https://www.androidauthority.com/prepaid-carriers-truly-unlimited-3529792/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/05/Stock-photo-of-major-US-carriers-Verizon-Wireless-ATT-and-T-Mobile-2.jpg",
+            "publishedAt": "2025-05-30T10:30:38Z",
+            "content": "A quick glance at all the major prepaid and postpaid mobile service providers makes it clear that almost everyone offers unlimited data nowadays. To make matters even more confusing for the average c… [+11404 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "John Duerden",
+            "title": "Real Kashmir FC endure despite India-Pakistan conflict",
+            "description": "Football team Real Kashmir FC was set up to help young people in a troubled region, and has found on pitch success. It also strives to present a different image of Kashmir in the face of recent turmoil. The tragic events of April 22, when 26 tourists were kil…",
+            "url": "https://www.dw.com/en/real-kashmir-fc-endure-despite-india-pakistan-conflict/a-72733044",
+            "urlToImage": "https://static.dw.com/image/72733829_6.jpg",
+            "publishedAt": "2025-05-30T10:24:00Z",
+            "content": "The tragic events of April 22, when 26 tourists were killed in Indian-administered Kashmir, were not only devastating for families and friends of the victims. They also pushed India and Pakistan into… [+5645 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "John Duerden",
+            "title": "Despite India-Pakistan conflict, Real Kashmir FC endures",
+            "description": "Football team Real Kashmir FC was set up to help young people in the troubled region and has been successful on and off the pitch. The club wants to present a different view of Kashmir, especially after recent events.",
+            "url": "https://www.dw.com/en/despite-india-pakistan-conflict-real-kashmir-fc-endures/a-72733044",
+            "urlToImage": "https://static.dw.com/image/72733829_6.jpg",
+            "publishedAt": "2025-05-30T10:24:00Z",
+            "content": "The tragic events of April 22, when 26 tourists were killed in Indian-administered Kashmir, were not only devastating for families and friends of the victims. They also pushed India and Pakistan into… [+5583 chars]"
+        }
+    ]
+}

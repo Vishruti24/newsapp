@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 
 import NewsItems from './NewsItems'
-//import Spinner from './Spinner'
+import Spinner from './Spinner'
 import PropTypes from 'prop-types'
-//import InfiniteScroll from "react-infinite-scroll-component"
+import InfiniteScroll from "react-infinite-scroll-component"
 
 
 
@@ -24,14 +24,15 @@ export class News extends Component {
     //console.log("hello i'm constructor from news components");
     this.state={
         articles:[],
-        loading:false,
+        loading:true,
         page:1,
     }
      
    } 
    async updateNews(){
-        const url=`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=fcae3d36684547ec90820ea09d27b60a&page=${this.state.page}&pageSize=${this.props.pageSize}`;
-        this.setState({loading:true});
+        this.props.setProgress(10);
+        const url=`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+        // this.setState({loading:true});
         let data=await fetch(url);
         let parsedData=await data.json();
         //console.log(parsedData);
@@ -39,15 +40,25 @@ export class News extends Component {
           articles:parsedData.articles,
           totalResults:parsedData.totalResults,
         })
+        this.props.setProgress(100);
    }
    async componentDidMount(){
        this.updateNews(); 
        document.title = `${this.props.category} -NewsApp`;     
     }
-  //  fetchMoreData = () => {
-  //   this.setState({page:this.state.page+1});
-  //   this.updateNews()
-  // };
+   fetchMoreData = async () => {
+    this.setState({page:this.state.page+1});
+            const url=`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+        // this.setState({loading:true});
+        let data=await fetch(url);
+        let parsedData=await data.json();
+        //console.log(parsedData);
+        this.setState({
+          articles:parsedData.articles,
+          totalResults:parsedData.totalResults,
+        })
+    //this.updateNews()
+  };
      handlePreClick= async ()=>{
        console.log("pre");
        this.setState({page:this.state.page-1});
@@ -60,16 +71,16 @@ export class News extends Component {
   render() {
     //console.log("render");
     return (
-      <div className="container my-3">
+      <div>
         <h1 className='text-center' style={{margin:'35px 0px'}}>NewsApp -Top Headlines From {this.props.category} </h1>
         {/* {!this.state.loading && <Spinner/>} */}
 
-        {/* <InfiniteScroll
+        <InfiniteScroll
           dataLength={this.state.articles?.length || 0}
           next={this.fetchMoreData}
           hasMore={this.state.articles.length !== this.state.totalResults}
           loader={<Spinner/>}
-        > */}
+        >
        <div className="row">
         {this.state.articles.map((element)=>{
              return <div className="col-md-4"  key={element.url}>
@@ -78,23 +89,16 @@ export class News extends Component {
         })
        }
        </div>
-       {/* </InfiniteScroll> */}
+       </InfiniteScroll>
         <div className="container d-flex justify-content-between">
             <button disabled={this.state.page<=1} type="button" className="btn btn-dark" onClick={this.handlePreClick}>&larr;Previous</button>
             <button disabled={this.state.page + 1 > Math.ceil(this.state.totalResults/this.props.pageSize)}type="button" className="btn btn-dark" onClick={this.handleNextClick}>Next &rarr;</button>
         </div>
-        {/* <div className="col-md-4">
-        <NewsItems title="myTitle" discription="mydesc"/>
-        </div>
-        <div className="col-md-4">
-        <NewsItems title="myTitle" discription="mydesc"/>
-        </div> */}
-        {/* </div> */}
-        {/* <NewsItems/>
-        <NewsItems/>
-        <NewsItems/> */}
+      
       </div>
+      
     )
+     
   }
 }
 
